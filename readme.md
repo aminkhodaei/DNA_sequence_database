@@ -7,7 +7,7 @@ This repository contains the dataset files used in these papers:
 
 [2] Khodaei, A., Mozaffari-Tazehkand, B. & Sharifi, H. A genomic signal processing approach for identification and classification of coronavirus sequences. Soft Comput 29, 321–338 (2025). https://doi.org/10.1007/s00500-024-10377-y
 
-[3] Khodaei, A., Eskandari, S., Sharifi, H., Mozaffari-Tazehkand, B. PRCFX-DT: a new graph-based approach for feature selection and classification of genomic sequences
+[3] Khodaei, A., Eskandari, S., Sharifi, H., Mozaffari-Tazehkand, B. PRCFX-DT: a new graph-based approach for feature selection and classification of genomic sequences. BMC Bioinformatics 26, 159 (2025). https://doi.org/10.1186/s12859-025-06183-4
 
 In these studies, the collected data have been categorized according to the aforementioned criteria and utilized accordingly. Given the large volume of received information, the accession numbers of the downloaded samples have been grouped and attached in the form of Excel files.
 
