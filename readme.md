@@ -7,9 +7,11 @@ This repository contains the dataset files used in these papers:
 
 [2] Khodaei, A., Mozaffari-Tazehkand, B. & Sharifi, H. A genomic signal processing approach for identification and classification of coronavirus sequences. Soft Comput 29, 321–338 (2025). https://doi.org/10.1007/s00500-024-10377-y
 
-[3] Khodaei, A., Eskandari, S., Sharifi, H., Mozaffari-Tazehkand, B. PRCFX-DT: a new graph-based approach for feature selection and classification of genomic sequences. BMC Bioinformatics 26, 159 (2025). https://doi.org/10.1186/s12859-025-06183-4
+[3] Khodaei, A., Eskandari, S., Sharifi, H., Mozaffari-Tazehkand, B., PRCFX-DT: a new graph-based approach for feature selection and classification of genomic sequences. BMC Bioinformatics 26, 159 (2025). https://doi.org/10.1186/s12859-025-06183-4
 
-[4] EIOFX-DT: Leveraging graph centrality metrics for feature extraction and classification of viral genetic sequences. Biotechnology Reports, e00939, Part of a special issue published about Network-based analysis and multi-omics approaches for biology and medicine (2026). https://doi.org/10.1016/j.btre.2025.e00939
+[4] Khodaei, A., Pourabbas, Z., Hashem-Zadehdizajyekan, F., & Esmaeili, E., EIOFX-DT: Leveraging graph centrality metrics for feature extraction and classification of viral genetic sequences. Biotechnology Reports, e00939, Part of a special issue published about Network-based analysis and multi-omics approaches for biology and medicine (2026). https://doi.org/10.1016/j.btre.2025.e00939
+
+[5] Khodaei, A., Haghani, E., & Moeini, S., An Interpretable Machine Learning Classification Algorithm Using Sequential Pattern-Based Feature Extraction on Viral Genetic Sequences. Journal of Computational Science, (2026). https://doi.org/10.1016/j.jocs.2026.103030
 
 In these studies, the collected data have been categorized according to the aforementioned criteria and utilized accordingly. Given the large volume of received information, the accession numbers of the downloaded samples have been grouped and attached in the form of Excel files.
 
