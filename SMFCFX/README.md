@@ -28,8 +28,11 @@ Due to the large size of the dataset, the complete data accession numbers are pr
     compute_macro_f1.m: A supporting function for classifiers to calculate F1-score.
     compute_macro_f1_per_class.m: A supporting function for classifiers to calculate F1-score of each class.
 
+Graphical4.jpg
 4. Notes
     Download or clone this repository.
     Open MATLAB and set the project folder as the current working directory.
     Ensure that the datasets and all required function files are accessible from the MATLAB path.
     Run the main script to execute the analysis.
+
+   
